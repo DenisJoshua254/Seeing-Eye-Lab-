@@ -1,7 +1,3 @@
-I'll work through Lab 1 systematically, following all three parts as instructed.
-
----
-
 ## 🔬 Part 1: SEE Clearly
 
 **What is the real problem here?**
